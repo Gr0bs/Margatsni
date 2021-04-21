@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Margatsni/static/css/main.d19cdd07.chunk.css",
+    "main.js": "/Margatsni/static/js/main.51961f75.chunk.js",
+    "main.js.map": "/Margatsni/static/js/main.51961f75.chunk.js.map",
+    "runtime-main.js": "/Margatsni/static/js/runtime-main.79e60f85.js",
+    "runtime-main.js.map": "/Margatsni/static/js/runtime-main.79e60f85.js.map",
+    "static/js/2.16cbb20e.chunk.js": "/Margatsni/static/js/2.16cbb20e.chunk.js",
+    "static/js/2.16cbb20e.chunk.js.map": "/Margatsni/static/js/2.16cbb20e.chunk.js.map",
+    "index.html": "/Margatsni/index.html",
+    "static/css/main.d19cdd07.chunk.css.map": "/Margatsni/static/css/main.d19cdd07.chunk.css.map",
+    "static/js/2.16cbb20e.chunk.js.LICENSE.txt": "/Margatsni/static/js/2.16cbb20e.chunk.js.LICENSE.txt",
+    "static/media/bookmark.33d67393.svg": "/Margatsni/static/media/bookmark.33d67393.svg",
+    "static/media/cardButton.16a6a4f4.svg": "/Margatsni/static/media/cardButton.16a6a4f4.svg",
+    "static/media/comment.6e5911ad.svg": "/Margatsni/static/media/comment.6e5911ad.svg",
+    "static/media/explore.cf7d270d.svg": "/Margatsni/static/media/explore.cf7d270d.svg",
+    "static/media/home.4ab9662a.svg": "/Margatsni/static/media/home.4ab9662a.svg",
+    "static/media/inbox.c4f64d6a.svg": "/Margatsni/static/media/inbox.c4f64d6a.svg",
+    "static/media/notification.021143bc.svg": "/Margatsni/static/media/notification.021143bc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e60f85.js",
+    "static/js/2.16cbb20e.chunk.js",
+    "static/css/main.d19cdd07.chunk.css",
+    "static/js/main.51961f75.chunk.js"
+  ]
+}
